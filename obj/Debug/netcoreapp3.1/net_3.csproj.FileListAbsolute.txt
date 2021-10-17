@@ -1,0 +1,14 @@
+C:\Учебка_3курс\c#\net_3\bin\Debug\netcoreapp3.1\net_3.exe
+C:\Учебка_3курс\c#\net_3\bin\Debug\netcoreapp3.1\net_3.deps.json
+C:\Учебка_3курс\c#\net_3\bin\Debug\netcoreapp3.1\net_3.runtimeconfig.json
+C:\Учебка_3курс\c#\net_3\bin\Debug\netcoreapp3.1\net_3.runtimeconfig.dev.json
+C:\Учебка_3курс\c#\net_3\bin\Debug\netcoreapp3.1\net_3.dll
+C:\Учебка_3курс\c#\net_3\bin\Debug\netcoreapp3.1\net_3.pdb
+C:\Учебка_3курс\c#\net_3\obj\Debug\netcoreapp3.1\net_3.csproj.AssemblyReference.cache
+C:\Учебка_3курс\c#\net_3\obj\Debug\netcoreapp3.1\net_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учебка_3курс\c#\net_3\obj\Debug\netcoreapp3.1\net_3.AssemblyInfoInputs.cache
+C:\Учебка_3курс\c#\net_3\obj\Debug\netcoreapp3.1\net_3.AssemblyInfo.cs
+C:\Учебка_3курс\c#\net_3\obj\Debug\netcoreapp3.1\net_3.csproj.CoreCompileInputs.cache
+C:\Учебка_3курс\c#\net_3\obj\Debug\netcoreapp3.1\net_3.dll
+C:\Учебка_3курс\c#\net_3\obj\Debug\netcoreapp3.1\net_3.pdb
+C:\Учебка_3курс\c#\net_3\obj\Debug\netcoreapp3.1\net_3.genruntimeconfig.cache
